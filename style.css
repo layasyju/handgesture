@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(189, 154, 161);
+}
+
+#ho{
+    background-color: rgb(143, 97, 114);
+}
+
+#po{
+    font-family: 'Raleway', sans-serif;
+    font-size: larger;
+    color: rgb(99, 97, 98);
+}
+#predict{
+    background-color: rgb(99, 97, 98);
+    color: rgb(126, 123, 124);
+}
+#capture{
+    background-color: rgb(99, 97, 98);
+    color: rgb(141, 139, 140);
+}
